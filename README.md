@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've been enjoying Web3 development since I built my first Solidity project. The user security and transaction transparrency makes me want to leave Web2 ecosystem behind for good.
+I've been enjoying Web3 development since I built my first Solidity project. The user security and transaction transparrency makes me want to leave Web2 ecosystem behind for good. 
 I'm currently on the look out for a role in backend Web3 development, ideally writing Solidity with JavaScript. I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
 <!--
 **junaid5598/junaid5598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
